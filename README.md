@@ -1,6 +1,5 @@
 # Excel-to-Insights: An SMB Sales Data Analyzer
 Full-stack web application designed for SMBs, automating the analysis of sales CSV/Excel files and instantly generating a data dashboard featuring RFM customer segmentation using Python (Pandas) and React.
-[//]: #  (Recommendation: Include a GIF of the working app here once Stage 5 is complete. Example: ![](demo.gif))
 
 ## 1. The Business Problem
 Small and medium-sized businesses (SMBs), particularly in local markets, often manage their most critical data—sales, inventory, and customers—using a patchwork of static Excel or CSV files. This "Excel chaos" leads to significant business challenges:
@@ -27,8 +26,4 @@ This project is built using a modern, full-stack combination to demonstrate prof
 
 ## 5. How to Run Locally (Installation)
 Coming soon...
-[//]: This section, which should always be at the bottom, gives the hiring manager clear instructions for testing your script (or application) themselves.
 
-[//]: To run this project locally, you will need two separate terminal windows—one for the Python backend and one for the React frontend.
-
-[//]: You can now upload the included `sales_data.csv` to see the full analysis.
