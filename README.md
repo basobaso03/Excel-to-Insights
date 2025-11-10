@@ -1,12 +1,8 @@
 # Excel-to-Insights: An SMB Sales Data Analyzer
 Full-stack web application designed for SMBs, automating the analysis of sales CSV/Excel files and instantly generating a data dashboard featuring RFM customer segmentation using Python (Pandas) and React.
-
-* (Recommendation: Include a GIF of the working app here once Stage 5 is complete. Example: ![](demo.gif))
+[//]: #  (Recommendation: Include a GIF of the working app here once Stage 5 is complete. Example: ![](demo.gif))
 
 ## 1. The Business Problem
-
-This section defines the pain point you are solving for Small and Medium-sized Businesses (SMBs).
-
 Small and medium-sized businesses (SMBs), particularly in local markets, often manage their most critical data—sales, inventory, and customers—using a patchwork of static Excel or CSV files. This "Excel chaos" leads to significant business challenges:
 
 * **High Risk of Errors:** Manual data entry is slow and prone to human error.
@@ -15,13 +11,9 @@ Small and medium-sized businesses (SMBs), particularly in local markets, often m
 
 ## 2. The Solution
 
-This section clearly explains what your project does and its core value.
-
 This project is a full-stack web application that acts as a simple, on-demand Business Intelligence (BI) tool. A non-technical user can upload their raw sales CSV file and instantly receive a complete, analytical dashboard. This closes the data knowledge gap, turning their "dead" sales records into a strategic business asset.
 
 ## 3. Key Features & Business Logic
-
-Highlight the specific analytical results and features that demonstrate business value.
 
 The application provides immediate, actionable answers to foundational business questions:
 
@@ -31,14 +23,12 @@ The application provides immediate, actionable answers to foundational business 
 
 ## 4. Tech Stack
 
-This section proves your technical capability by listing the specific tools and libraries you mastered for this project.
-
 This project is built using a modern, full-stack combination to demonstrate proficiency in both backend data processing (the engine) and frontend user experience (the interface).
 
 ## 5. How to Run Locally (Installation)
+Coming soon...
+[//]: This section, which should always be at the bottom, gives the hiring manager clear instructions for testing your script (or application) themselves.
 
-This section, which should always be at the bottom, gives the hiring manager clear instructions for testing your script (or application) themselves.
+[//]: To run this project locally, you will need two separate terminal windows—one for the Python backend and one for the React frontend.
 
-To run this project locally, you will need two separate terminal windows—one for the Python backend and one for the React frontend.
-
-You can now upload the included `sales_data.csv` to see the full analysis.
+[//]: You can now upload the included `sales_data.csv` to see the full analysis.
